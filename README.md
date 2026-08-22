@@ -1,9 +1,12 @@
 # Simulation-De-Trous-Noirs
 
 Gravity & Black Hole Simulations :
+
 Simulations numériques et modélisation de la relativité générale (Schwarzschild, Kerr, 
 Oppenheimer-Snyder). 
+
 ● Objectifs : 
+
 ○ Modéliser l'effondrement gravitationnel et la dynamique de la matière (forces de marée, 
 spaghettification). 
 ○ Visualiser les déformations d'espace-temps en 1D, 2D (membrane de Flamm) et 3D 
