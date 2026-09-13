@@ -68,35 +68,35 @@ Pour simuler l'effondrement dynamique d'une étoile jusqu'à la formation d'un t
     K = R^{\alpha\beta\gamma\delta} R_{\alpha\beta\gamma\delta}
   * **Calcule :** La mesure absolue de la courbure pour détecter la singularité physique (K \to \infty quand r \to 0) indépendamment du système de coordonnées.
 
-MORT DU SOLEI : ETAPES
+MORT DU SOLEIL : ETAPES
 
 1. Phase 1 : Branche des Géantes Rouges (RGB) 
 
-○ Au cœur : L'hydrogène au centre est épuisé . Le cœur d'hélium inerte 
-se contracte sous l'effet de la gravité et s'échauffe. 
+  ○ Au cœur : L'hydrogène au centre est épuisé . Le cœur d'hélium inerte 
+    se contracte sous l'effet de la gravité et s'échauffe. 
 
-○ En couche : La fusion de l'hydrogène se poursuit dans une fine coquile autour du cœur. 
+  ○ En couche : La fusion de l'hydrogène se poursuit dans une fine coquile autour du cœur. 
 
-○ En surface : L'enveloppe gazeuse se dilate de manière spectaculaire (le rayon R_{star} 
-augmente dans le panneau 1 et 2). 
+  ○ En surface : L'enveloppe gazeuse se dilate de manière spectaculaire (le rayon R_{star} 
+    augmente dans le panneau 1 et 2). 
 
 2. Transition : Flash de l'Hélium & Branche Asymptotique (AGB) 
 
-○ La température au cœur atteint environ $100 \text{ milions de Kelvin}$, déclenchant la 
-fusion de l'hélium via le processus triple alpha ($3\,^4\text{He} \rightarrow 
-\,^{12}\text{C}$). 
+  ○ La température au cœur atteint environ $100 \text{ milions de Kelvin}$, déclenchant la 
+    fusion de l'hélium via le processus triple alpha ($3\,^4\text{He} \rightarrow 
+    \,^{12}\text{C}$). 
 
-○ Dans le panneau 3, l'hélium commence à être consommé pour produire du carbone et 
-de l'oxygène ($C/O$). 
+  ○ Dans le panneau 3, l'hélium commence à être consommé pour produire du carbone et 
+    de l'oxygène ($C/O$). 
 
 3. Phase 2 ($t \in [4, 7]$) : Pulsations et Nébuleuse Planétaire 
 
-○ Les instabilités thermiques de la combustion de l'hélium expulsent progressivement 
-l'enveloppe externe. C'est l'apparition du mai lage cyan de la nébuleuse planétaire dans 
-le panneau 1. 
+  ○ Les instabilités thermiques de la combustion de l'hélium expulsent progressivement 
+    l'enveloppe externe. C'est l'apparition du mai lage cyan de la nébuleuse planétaire dans 
+    le panneau 1. 
 
 4. Phase 3 ($t \in [7, 10]$) : Naine Blanche 
 
-○ Les réactions nucléaires s'arrêtent définitivement (pas assez de masse pour amorcer la 
-fusion du carbone). Le cœur résiduel de carbone/oxygène se fige, stabilisé par la 
-pression de dégénérescence électronique (panneau 4).
+  ○ Les réactions nucléaires s'arrêtent définitivement (pas assez de masse pour amorcer la 
+    fusion du carbone). Le cœur résiduel de carbone/oxygène se fige, stabilisé par la 
+    pression de dégénérescence électronique (panneau 4).
