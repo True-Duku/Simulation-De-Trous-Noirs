@@ -1,4 +1,5 @@
 # Simulation-De-Trous-Noirs
+<img width="1500" height="700" alt="Trou_Noir_De_Kerr_Figure_1" src="https://github.com/user-attachments/assets/86e3a477-10a6-4f7d-8a73-9c1545b2abd8" />
 
 Gravity & Black Hole Simulations :
 
